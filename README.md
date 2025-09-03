@@ -19,6 +19,6 @@ It fetches real-world coordinates of metro stations, builds a graph of metro lin
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/paris-metro-visualization.git
+git clone https://github.com/ss9468t/Urban-Transport-Network-Representation.git
 cd paris-metro-visualization
 pip install -r requirements.txt
